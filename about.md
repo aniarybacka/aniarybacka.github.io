@@ -4,7 +4,7 @@ permalink: /about/index.html
 title: About Ania Rybacka
 tags: [Ania Rybacka about]
 image:
-  feature: trion2.jpg
+  feature: pink watercolor.jpg
 ---
 
 Ania Rybacka is a vocalist born in Poland, currently living in Denmark.
