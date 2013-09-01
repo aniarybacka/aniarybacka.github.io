@@ -4,10 +4,11 @@ permalink: /music/index.html
 title: Music
 tags: [music]
 image:
-  feature: kolague.jpg
-  credit: friends
+  feature: music background1.jpg
 ---
 
-#Music
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F52810069"></iframe>
 
-Here be music.
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F63168675"></iframe>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F52809338"></iframe>

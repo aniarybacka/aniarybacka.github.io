@@ -4,10 +4,7 @@ permalink: /photo/index.html
 title: Photos
 tags: [photos]
 image:
-  feature: kolague.jpg
-  credit: friends
+  feature: photo background.jpg
+
 ---
 
-#Photos
-
-Here be photos.

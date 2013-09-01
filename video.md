@@ -4,10 +4,22 @@ permalink: /video/index.html
 title: Video
 tags: [video]
 image:
-  feature: kolague.jpg
-  credit: friends
+  feature: video background.jpg
+
 ---
+Wrong Lovin'
 
-#Video
+<iframe width="560" height="315" src="//www.youtube.com/embed/9zWPnxeMg9A" frameborder="0" allowfullscreen></iframe>
 
-Here be video.
+Ordinary People - John Legend Cover
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/_2O9Oqz6PgM" frameborder="0" allowfullscreen></iframe>
+
+Good Evening Melancholy
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/smHdjr-4KOY" frameborder="0" allowfullscreen></iframe>
+
+Control Freak
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/x5agDR4p_Vg" frameborder="0" allowfullscreen></iframe>
+
