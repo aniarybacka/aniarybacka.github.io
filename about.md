@@ -18,14 +18,14 @@ From her early age she was associated with Culture Center in her family town, be
 * November 2008, she won the third prize during International Jazz Krokus Festival in Jelenia Góra and Bautzen with RKBZ Quartet.
 * March, 2009 she got the first prize in Nardis Jazz Vocal Competition in Istambul, and was chosen to represent Turkey in jazz festival outside the country.
 * June, 2009 she took part in Lady Summertime Competition in Finland, inviting 18 singers from 16 countries, and as one of the youngest competitors she got to finals and won the third prize.
-* September, 2009 she got the second prize in International Jazz Competition for Singing Musicians “Voicingers” Żory, and performed on the festival organized by Polish Jazz Associationl “ Ci, Na Których Liczymy”
+* September, 2009 she got the second prize in International Jazz Competition for Singing Musicians “Voicingers” Żory, and performed on the festival organized by Polish Jazz Association “ Ci, Na Których Liczymy”
 
 <p align="justify">
 In 2011 Ania Rybacka was awarded with artistic scholarship by Polish Ministry of Culture and National Heritage, and in 2012 by Danish Karen and Arthur Feldthusen Foundation For Young Singers And Pianists.
 
 Last couple of years she got an opportunity to work and study with such inspiring musicians as Pete Lockett, Gretchen Parlato, Bob Gulotti, Kasper Tranberg, Jakob Bro, Anders Mogensen, Kresten Osgood, Richard Anderson, Wojciech Majewski, and Grażyna Auguścik among others.
 
-Recently she’s been recording an EP with her band Blueberry, a debut album with Sphere, and composing for many other projects.</p>
+Recently she’s been recording an EP with her band Blueberry, a debut album with Sphere, and has been composing for many other projects.</p>
 
 
 

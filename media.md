@@ -2,13 +2,11 @@
 layout: noHeaderPage
 permalink: /media/index.html
 description: "Music, photos, videos"
-title: Media
 tags: [media]
 image:
-  feature: so-simple-sample-image-2.jpg
+  feature: media background blue.jpg
 ---
 
-***
 
 <figure class="third">
     <a href="{{ site.url }}/music"><img src="{{ site.url }}/images/media paint music.jpg" alt="Music"></a>
