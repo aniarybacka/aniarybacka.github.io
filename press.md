@@ -1,13 +1,12 @@
 ---
-layout: page
-permalink: /press/index.html
-title: Press
-tags: [press]
-image:
-  feature: kolague.jpg
-  credit: friends
+layout: noHeaderPage
+permalink: /projects/index.html
+description: Projects
+tags: [projects]
+
 ---
 
-#Press
-
-Here be press.
+<figure class="half">
+    <a href="{{ site.url }}/blueberry"><img src="{{ site.url }}/images/blueberry pic.jpg" alt="blueberry"></a>
+    <a href="{{ site.url }}/sphere"><img src="{{ site.url }}/images/image-filename-2.jpg" alt="Sphere"></a>
+</figure>

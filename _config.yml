@@ -1,6 +1,7 @@
 title:            Ania Rybacka
 description:      vocalist | psychologist | composer
 logo:             site-logo2.png
+
 disqus_shortname:
 #Comment out url when working locally to resolve base urls correctly
 url:              http://aniarybacka.com
@@ -40,8 +41,8 @@ links:
     url: /concerts
   - title: Media
     url: /media
-  - title: Press
-    url: /press
+  - title: Projects
+    url: /projects
   - title: Contact
     url: /contact
   - title: Facebook
