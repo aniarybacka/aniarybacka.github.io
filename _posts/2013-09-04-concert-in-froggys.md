@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fisher/Dąbrowski/Mikkel/Domański"
+title: "Fisher/Dąbrowski/Mikkel/Domański  12.09.2013"
 description: 12 september, concert in Froggys
 modified: 2013-09-04
 category: concerts

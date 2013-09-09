@@ -21,6 +21,7 @@ Coming form different cultural backgrounds and experiences in a wide range of mu
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F52809338"></iframe>
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F52810069"></iframe>
 
 #Video#
 
@@ -35,5 +36,23 @@ Coming form different cultural backgrounds and experiences in a wide range of mu
     <a href="/images/Mateusz Straszewski1.jpg"><img src="/images/Mateusz Straszewski1.jpg"></a>
     <a href="/images/mateusz straszewski2.jpg"><img src="/images/mateusz straszewski2.jpg"></a>
 
-    <figcaption>Two images.</figcaption>
 </figure>
+
+<figure class="half">
+    <a href="/images/momentum2.jpg"><img src="/images/momentum2.jpg"></a>
+    <a href="/images/momentum1.jpg"><img src="/images/momentum1.jpg"></a>
+
+</figure>
+
+<figure class="half">
+    <a href="/images/photo Nick Hune.jpg"><img src="/images/photo Nick Hune.jpg"></a>
+    <a href="/images/photo Nick Hune2.jpg"><img src="/images/photo Nick Hune2.jpg"></a>
+
+</figure>
+
+<figure class="half">
+    <a href="/images/sceny.jpg"><img src="/images/sceny.jpg"></a>
+
+
+</figure>
+
