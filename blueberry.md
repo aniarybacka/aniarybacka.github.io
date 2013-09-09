@@ -35,24 +35,14 @@ Coming form different cultural backgrounds and experiences in a wide range of mu
 <figure class="half">
     <a href="/images/Mateusz Straszewski1.jpg"><img src="/images/Mateusz Straszewski1.jpg"></a>
     <a href="/images/mateusz straszewski2.jpg"><img src="/images/mateusz straszewski2.jpg"></a>
-
-</figure>
-
-<figure class="half">
     <a href="/images/momentum2.jpg"><img src="/images/momentum2.jpg"></a>
     <a href="/images/momentum1.jpg"><img src="/images/momentum1.jpg"></a>
-
-</figure>
-
-<figure class="half">
+    <a href="/images/Momentum3.jpg"><img src="/images/Momentum3.jpg"></a>
+    <a href="/images/Andy.jpg"><img src="/images/Andy.jpg"></a>
     <a href="/images/photo Nick Hune.jpg"><img src="/images/photo Nick Hune.jpg"></a>
     <a href="/images/photo Nick Hune2.jpg"><img src="/images/photo Nick Hune2.jpg"></a>
-
-</figure>
-
-<figure class="half">
     <a href="/images/sceny.jpg"><img src="/images/sceny.jpg"></a>
-
+    <a href="/images/Leszek Nojman.jpg"><img src="/images/Leszek Nojman.jpg"></a>
 
 </figure>
 
