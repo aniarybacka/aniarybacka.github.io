@@ -11,4 +11,4 @@ tags: [projects]
     <a href="{{ site.url }}/sphere"><img src="{{ site.url }}/images/projects-sphere icon.jpg" alt="Sphere"></a>
 </figure>
 
-more to come...
+
