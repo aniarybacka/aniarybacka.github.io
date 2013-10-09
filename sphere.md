@@ -7,10 +7,7 @@ image:
   feature: Sphere Background.jpg
 ---
 
-><I><small>A sphere (from Greek σφαῖρα — sphaira)- is a perfectly round geometrical and circular object in three-dimensional space that resembles the shape of a completely round ball. Like a circle, which, in geometrical contexts, is in two dimensions, a sphere is the set of points that are all the same distance from a given point in space. /Wikipedia/</small></I>
-
-<p align="justify">Like in description above, project <big><b>Sphere</b></big> is a set of elements creating a perfectly round musical space. Those elements take form of three musicians filling the distance between them with full living sound, combining favorite features of classical, jazz and folk tradition. Their role is equal - a movement of one always causes maneuver of others, creating one body, always striving for inspiration and broadly defined beauty.<br><br>
-
+<p align="justify">Project <big><b>Sphere</b></big> was born from pursuit of inspiration and broadly defined beauty. Three highly regarded musicians of New Sceen - Ania Rybacka (voc), Marek Kadziela (git) and Kuba Dybzynski (cl) - make music that creates an intimate sphere, inviting listeners to play an active role in this aesthetic and emotional experience. Compositions of Sphere members are a combination of jazz and contemporary music with their favorite features of classical, and folk tradition.  At the moment they are working on their album, and performing in Denmark and Poland. <br><br>
 M a r e k ___K a d z i e l a<br>
 
 <small>Jazz guitarist, considered as a one of the most outstanding polish jazz musicians of young generation.
@@ -31,7 +28,5 @@ A n i a___ R y b a c k a<br>
 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F108827751"></iframe>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F112405558"></iframe>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F112406594"></iframe>
