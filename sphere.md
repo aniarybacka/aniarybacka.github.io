@@ -27,6 +27,8 @@ A n i a___ R y b a c k a<br>
 <small>Singer and composer, winner of inernational jazz competitions in Europe, as Lady Summertime (Finland), Nardis Jazz Vocal Yarismasi (Turkey), Voicingers (Poland) or Jazz Krokus Festival (Poland). Graduated from Carl Nielsen Academy of music (Denmark) and Warsaw School of Social Sciences. Last couple of years had a pleasure to perform with Odense Symphony Orchestra, as a soloist with Danish Radio Big Band, Cantilena and Fynsk Fuga choirs. Composed for Ania Rybacka Quintet, Sphere, Blueberry, and underground projects. Works as a choir leader, vocal coach, and performer. </small></p><br>
 
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124621781&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true"></iframe>
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F108827751"></iframe>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F112406594"></iframe>
