@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1.10.2013 -- Rybacka/Zukanovic"
+title: "Rybacka/Zukanovic in Copenhagen"
 description: 1 october concert in Copenhagen
 modified: 2013-09-21
 category: concerts

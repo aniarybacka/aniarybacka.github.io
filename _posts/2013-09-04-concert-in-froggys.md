@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "12.09.2013 -- Fisher/Dąbrowski/Mikkel/Domański"
+title: "Fisher/Dąbrowski/Mikkel/Domański in Odense"
 description: 12 september, concert in Froggys
 modified: 2013-09-04
 category: concerts

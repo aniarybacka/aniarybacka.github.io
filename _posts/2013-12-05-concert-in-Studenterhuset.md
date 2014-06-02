@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5.12.2013 -- Sphere in Odense"
+title: "Sphere in Odense"
 description: 5 december concert in Odense
 modified: 2013-10-09
 category: concerts

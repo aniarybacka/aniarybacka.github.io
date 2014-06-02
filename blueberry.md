@@ -4,7 +4,7 @@ permalink: /blueberry/index.html
 title:
 tags: [blueberry]
 image:
-  feature: blueberry background.jpg
+  feature: blueberry background2.jpg
 ---
 
 <big>Blueberry</big> is an electronic-acustic project born in Denmark, initiated by Ania Rybacka & Adi Zukanović, joined last year by Roux Spana.

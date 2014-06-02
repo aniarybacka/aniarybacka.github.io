@@ -25,7 +25,7 @@ In 2011 Ania Rybacka was awarded with artistic scholarship by Polish Ministry of
 
 Last couple of years she got an opportunity to work and study with such inspiring musicians as Pete Lockett, Gretchen Parlato, Bob Gulotti, Kasper Tranberg, Jakob Bro, Anders Mogensen, Kresten Osgood, Richard Anderson, Wojciech Majewski, and Grażyna Auguścik among others.
 
-Recently she’s been recording an EP with her band Blueberry, a debut album with Sphere, and has been composing for many other projects.</p>
+Recently she’s been recording an EP of her project Paper Me, a debut album with Sphere, and has been composing for many other projects.</p>
 
 
 
