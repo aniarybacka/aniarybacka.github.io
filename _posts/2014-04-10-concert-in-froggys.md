@@ -4,7 +4,7 @@ title: "Ania Rybacka Band / Odense"
 description: 10 april, concert in Froggys
 modified: 2014-04-02
 category: concerts
-tags: [concert 10 april]
+tags: [Froggys 10 april]
 comments: true
 ---
 Ania Rybacka Band performs on <big>**10th of April**</big> 2014 in Froggys Cafe, Odense / Denmark<br>

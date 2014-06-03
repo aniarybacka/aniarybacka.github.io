@@ -13,4 +13,4 @@ Ania Rybacka Band performs on <big>**24th of April**</big> 2014 in Froggys Cafe,
 Ania Rybacka - vocal<br>
 Łukasz Borowicki - guitar<br>
 Mariusz Praśniewski - bass<br>
-Karol Domański - drums<br>
+Anders Lindhardt Madsen - drums<br>

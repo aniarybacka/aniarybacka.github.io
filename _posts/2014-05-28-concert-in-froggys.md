@@ -4,7 +4,7 @@ title: "Ania Rybacka Band / Odense"
 description: 28 may, concert in Froggys
 modified: 2014-05-02
 category: concerts
-tags: [concert 28 may]
+tags: [Froggys 28 may]
 comments: true
 ---
 Ania Rybacka Band performs on <big>**28th of May**</big> 2014 in Froggys Cafe, Odense / Denmark<br>
