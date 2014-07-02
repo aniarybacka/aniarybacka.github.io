@@ -4,7 +4,7 @@ title: "Rybacka/Zukanovic in Copenhagen"
 description: 1 october concert in Copenhagen
 modified: 2013-09-21
 category: concerts
-tags: [concert Copenhagen]
+tags: [concert 1st of October]
 comments: true
 ---
 A very mystic Blueberry-duo concert, the <big>**1st of october**</big>

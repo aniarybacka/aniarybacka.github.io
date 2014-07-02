@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rybacka / Tuznik in Teater GROB (Copenhagen)"
+title: "Rybacka / Tuznik in Theater GROB (Copenhagen)"
 description: 29 march, concert in Teater GROB
 modified: 2014-03-02
 category: concerts

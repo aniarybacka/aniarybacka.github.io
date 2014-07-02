@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Anna & David / Assens"
+title: "Anna & David / Assens DK"
 description: 14 may, Anna & David Duets
 modified: 2014-05-02
 category: concerts
-tags: [concert 14 may]
+tags: [concert 14th of May]
 comments: true
 ---
 Anna og David er en ekstraordinær duo, der optræder med amerikanske kærlighedssange fra 40erne og 50erne. Repetoriet består af sange oprindeligt udøvet af kunstnere som Ella Fitzgerald, Louis Armstrong, Nat King Cole, Frank Sinatra og Billy Holiday. Duoen arrrangerer selv sangene indtil smukke og velklingende jazzarrangementer, som bliver akkompagneret af guitar, bas og trommer. Begge sangere er uddannet musikere og erfarne perfomere. <br><br>

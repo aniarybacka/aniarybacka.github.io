@@ -4,7 +4,7 @@ title: "Ania Rybacka / Copenhagen Musketer Festival"
 description: 13 june, Musketeer Festival
 modified: 2014-06-02
 category: concerts
-tags: [concert 13 june]
+tags: [concert 13th of June]
 comments: true
 ---
 Ania Rybacka will join the team, consisting of over 200 free-jazz musians playing for Musketer Festival organized by Kresten Osgood, <big>**13th of June**</big> 2014 in Huset, Copenhagen / Denmark<br><br>

@@ -4,7 +4,7 @@ title: "Fisher/Dąbrowski/Mikkel/Domański in Odense"
 description: 12 september, concert in Froggys
 modified: 2013-09-04
 category: concerts
-tags: [concert 12 september]
+tags: [concert 12th of September]
 comments: true
 ---
 A very special concert <big>**12th of september**</big> 2013 in Froggys Cafe, Odense / Denmark<br>
