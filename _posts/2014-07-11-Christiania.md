@@ -15,3 +15,8 @@ Gauthier Toux (FR)- piano<br>
 Kenneth Dahl Knudsen (DK) - bass<br>
 Maxence Sibille (CH)- drums<br>
 
+<figure>
+   <img src="/images/myCPHjazz.jpg"></a>
+</figure>
+
+

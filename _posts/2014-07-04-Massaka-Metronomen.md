@@ -15,3 +15,7 @@ Ania Rybacka will feature Massaka Storytelling Ensemble <big>**4th of July at 20
    <img src="http://jazzsoul.pl/images/resized/940x300c1@/images//2013/09/Massaka-Brian.jpg"></a>
 </figure>
 
+<figure>
+   <img src="/images/Massaka.jpg"></a>
+</figure>
+

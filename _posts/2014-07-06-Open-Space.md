@@ -15,3 +15,6 @@ Maciej Kądziela - sax<br><br>
 <a href="http://http://projectopenspace.dk/open-space--home.html">www.openspace.dk</a><br><br>
 Facebook Event with full festival program: <a href="https://www.facebook.com/events/807525739267343/">HERE</a>
 
+<figure>
+   <img src="/images/myCPHjazz.jpg"></a>
+</figure>
