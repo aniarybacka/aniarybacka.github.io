@@ -9,7 +9,7 @@ comments: true
 ---
 Ania Rybacka & Artur Tuznik, the <big>**23th of august at 14:00**</big> 2014 in St. Albans Church, Copenhagen / Denmark<br>
 <figure>
-<img src="/images/St Albans Church.JPG">
+<img src="/images/St Albans Church.jpg">
 </figure>
 
 

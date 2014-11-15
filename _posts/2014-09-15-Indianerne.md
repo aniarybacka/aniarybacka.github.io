@@ -1,19 +1,17 @@
 ---
 layout: post
-title: "Kresten Osgood's 'Indianerne in Global Copenhagen"
+title: "Indianerne feat. Maria Lauratte Friis in Global Copenhagen"
 description: 15th september, Global Copenhagen
 modified: 2014-09-02
 category: concerts
 tags: [concert 15th of september]
 comments: true
 ---
-Dato: Mandag 15 september<br>
-<br>
-Koncert: kl. 21
-<br>
-Billetter: 50 kr. / studerende: 30 kr.<br><br>
+<figure>
+   <img src="/images/indianerne.jpg"></a>
+</figure>
 
-
+<br>
 Alt er tilladt når Kresten Osgood & Indianerne spiller koncert og det kommer ikke til at gå stille for sig. Ensemblet stiller op på Global hver mandag i september, med spændende besætninger og med forskellige gæster. Denne aften har de gæstemusikere fra Aarhus med på scenen.
 
 Under ledelse af trommeslageren Kresten Osgood er Indianerne et storband, der bryder grænser ned og blæser på genreinddelingerne. De har spillet for køer, på Spot Festivalen, med psykisk syge og deres behandlere, på jazzfestivalerne, i toget mellem Lemvig og Thyborøn, og i mange andre sammenhænge. Glem alt om forventninger, hvis du vælger at sætte dine ben til en koncert med Indianerne.

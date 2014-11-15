@@ -7,11 +7,10 @@ category: concerts
 tags: [concert 29th of september]
 comments: true
 ---
-Dato: Mandag 29. september<br>
+<figure>
+   <img src="/images/indianerne.jpg"></a>
+</figure>
 <br>
-Koncert: kl. 21
-<br>
-Billetter: 50 kr. / studerende: 30 kr.<br><br>
 
 
 Alt er tilladt når Kresten Osgood & Indianerne spiller koncert og det kommer ikke til at gå stille for sig. Ensemblet stiller op på Global hver mandag i september, med spændende besætninger og med forskellige gæster. Denne aften har de gæstemusikere fra Aarhus med på scenen.
@@ -26,8 +25,3 @@ I en anmeldelse af Indianernes koncert på SPOT-festivalen i 2008 kunne man læs
 
 "I et sceneregi, der lignede en mellemting mellem The Beatles' Sgt. Pepper's Lonely Hearts Club Band-cover og en fugtig sydamerikansk jungle, blev der stuvet så mange mennesker og instrumenter ind, som det næsten var muligt, uden at situationen blev livstruende: Fire sangerinder, adskillige saxofonister og trommeslagere/percussionister plus det løse. I disse omgivelser blev der så taget livtag med såvel kitschede oldies, der præsenteredes i radikale omfortolkninger, som egenkompositioner af Osgood. Kresten Osgood & Indianerne havde alt andet end fløjlshandsker på, når de spillede, og selvom koncerterne forsigtigt var annoncerede som 'musikalske legestuer', var de i deres bedste stunder meget mere end det." – Steffen B Pedersen juni 2008
 
-
-
-<figure>
-   <img src="/images/indianerne.jpg"></a>
-</figure>
