@@ -4,7 +4,7 @@ logo:             Ania logo.png
 
 disqus_shortname:
 #Comment out url when working locally to resolve base urls correctly
-url:              http://aniarybacka.com
+#url:              http://aniarybacka.com
 
 # Owner/author information
 owner:

@@ -33,8 +33,6 @@ Coming form different cultural backgrounds and experiences in a wide range of mu
 
 
 <figure class="half">
-    <a href="/images/Mateusz Straszewski1.jpg"><img src="/images/Mateusz Straszewski1.jpg"></a>
-    <a href="/images/mateusz straszewski2.jpg"><img src="/images/mateusz straszewski2.jpg"></a>
     <a href="/images/momentum2.jpg"><img src="/images/momentum2.jpg"></a>
     <a href="/images/momentum1.jpg"><img src="/images/momentum1.jpg"></a>
     <a href="/images/Momentum3.jpg"><img src="/images/Momentum3.jpg"></a>
