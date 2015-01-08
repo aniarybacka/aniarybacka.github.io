@@ -7,7 +7,28 @@ image:
   feature: Sphere Background.jpg
 ---
 
-<p align="justify">Project <big><b>Sphere</b></big> was born from pursuit of inspiration and broadly defined beauty. Three highly regarded musicians of New Sceen - Ania Rybacka (voc), Marek Kadziela (git) and Kuba Dybzynski (cl) - make music that creates an intimate sphere, inviting listeners to play an active role in this aesthetic and emotional experience. Compositions of Sphere members are a combination of jazz and contemporary music with their favorite features of classical, and folk tradition.  At the moment they are working on their album, and performing in Denmark and Poland. <br><br>
+<p align="justify">Project <big><b>Sphere</b></big> was born from pursuit of broadly defined beauty. Three highly regarded polish musicians: Ania Rybacka (voc), Marek Kadziela (git) and Kuba Dybzynski (cl) create a sphere inviting listener’s imagination to play an active role in an aesthetic and emotional experience. Music of this trio is full of intimate emotions, delicate lyricism and oscillates between genres, including jazz, classical, folk and improvised music. 
+<br>
+
+<figure>
+    <a href="/images/Sphere okladka.jpg"><img src="/images/Sphere okladka.jpg"></a>
+</figure>
+<br>
+<p align="justify">
+Sphere has recently released an album SYNESTHESIA in record label Hevhetia.
+“Synesthesia” is a phenomenon in which stimulation of one sensory leads to automatic experiences in a second sensory. Sounds and tones can be connected to specific colours and shades. Certain emotions might be triggered with particular sounds, and music features are strongly linked with human emotions. Drawing from this phenomenon we can bring experiencing music to a completely different level, by intentionally opening cognitive pathways and releasing our imagination.
+
+The album was recorded in Holy Sea Studio in winter 2013. Whole material, vocal and guitar effects and loops are recorded live. CD’s are available here:
+<a href="http://www.hevhetia.com/Hevhetia/portal/ViewItem.xhtml?id=3408">Hevhetia online-shop</a><br>
+
+The cover artwork is made by Marcjanna Urbanska
+
+
+
+
+
+
+About Sphere members:<br><br>
 M a r e k ___K a d z i e l a<br>
 
 <small>Jazz guitarist, considered as a one of the most outstanding polish jazz musicians of young generation.
@@ -24,11 +45,13 @@ J a k u b___ D y b ż y ń s k i<br>
 
 A n i a___ R y b a c k a<br>
 
-<small>Singer and composer, winner of inernational jazz competitions in Europe, as Lady Summertime (Finland), Nardis Jazz Vocal Yarismasi (Turkey), Voicingers (Poland) or Jazz Krokus Festival (Poland). Graduated from Carl Nielsen Academy of music (Denmark) and Warsaw School of Social Sciences. Last couple of years had a pleasure to perform with Odense Symphony Orchestra, as a soloist with Danish Radio Big Band, Cantilena and Fynsk Fuga choirs. Composed for Ania Rybacka Quintet, Sphere, Blueberry, and underground projects. Works as a choir leader, vocal coach, and performer. </small></p><br>
+<small>Singer and composer awarded on international jazz competitions as Lady Summertime (Finland), Nardis Jazz Vocal Yarismasi (Turkey), Voicingers (Poland) or Jazz Krokus Festival (Poland). Graduated from Carl Nielsen Academy of music (Denmark) and Warsaw School of Social Sciences. Last couple of years had a pleasure to perform with Odense Symphony Orchestra, as a soloist with Danish Radio Big Band, Cantilena and Fynsk Fuga choirs. Composed for Ania Rybacka Quintet, Sphere, Blueberry, and underground projects. Works as a choir leader, vocal coach, and performer. </small></p><br>
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/136468132&amp;auto_play=false&amp;hide_related=false&amp;visual=true"></iframe>
+
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124621781&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true"></iframe>
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/136468132&amp;auto_play=false&amp;hide_related=false&amp;visual=true"></iframe>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F108827751"></iframe>
 
