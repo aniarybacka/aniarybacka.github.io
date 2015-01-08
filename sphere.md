@@ -20,7 +20,6 @@ Sphere has recently released an album SYNESTHESIA in record label Hevhetia.
 <br>
 The album was recorded in Holy Sea Studio in winter 2013. Whole material, vocal and guitar effects and loops are recorded live. CD’s are available here:
 <a href="http://www.hevhetia.com/Hevhetia/portal/ViewItem.xhtml?id=3408">Hevhetia online-shop</a><br>
-<br>
 The cover artwork was made by Marcjanna Urbanska
 <br><br>
 
@@ -28,7 +27,8 @@ The cover artwork was made by Marcjanna Urbanska
 
 
 
-About Sphere members:<br>
+About Sphere members:
+<br><br>
 M a r e k ___K a d z i e l a<br>
 
 <small>Jazz guitarist, considered as a one of the most outstanding polish jazz musicians of young generation.
