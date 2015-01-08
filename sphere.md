@@ -11,24 +11,24 @@ image:
 <br>
 
 <figure>
-    <a href="/images/Sphere okladka.jpg"><img src="/images/Sphere okladka.jpg"></a>
+    <img src="/images/Sphere okladka.jpg"></a>
 </figure>
 <br>
 <p align="justify">
 Sphere has recently released an album SYNESTHESIA in record label Hevhetia.
 “Synesthesia” is a phenomenon in which stimulation of one sensory leads to automatic experiences in a second sensory. Sounds and tones can be connected to specific colours and shades. Certain emotions might be triggered with particular sounds, and music features are strongly linked with human emotions. Drawing from this phenomenon we can bring experiencing music to a completely different level, by intentionally opening cognitive pathways and releasing our imagination.
-
+<br>
 The album was recorded in Holy Sea Studio in winter 2013. Whole material, vocal and guitar effects and loops are recorded live. CD’s are available here:
 <a href="http://www.hevhetia.com/Hevhetia/portal/ViewItem.xhtml?id=3408">Hevhetia online-shop</a><br>
-
-The cover artwork is made by Marcjanna Urbanska
-
-
-
+<br>
+The cover artwork was made by Marcjanna Urbanska
+<br><br>
 
 
 
-About Sphere members:<br><br>
+
+
+About Sphere members:<br>
 M a r e k ___K a d z i e l a<br>
 
 <small>Jazz guitarist, considered as a one of the most outstanding polish jazz musicians of young generation.
