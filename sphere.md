@@ -8,12 +8,11 @@ image:
 ---
 
 <p align="justify">Project <big><b>Sphere</b></big> was born from pursuit of broadly defined beauty. Three highly regarded polish musicians: Ania Rybacka (voc), Marek Kadziela (git) and Kuba Dybzynski (cl) create a sphere inviting listener’s imagination to play an active role in an aesthetic and emotional experience. Music of this trio is full of intimate emotions, delicate lyricism and oscillates between genres, including jazz, classical, folk and improvised music. 
-<br>
+
 
 <figure>
     <img src="/images/Sphere okladka.jpg"></a>
 </figure>
-<br>
 <p align="justify">
 Sphere has recently released an album SYNESTHESIA in record label Hevhetia.
 “Synesthesia” is a phenomenon in which stimulation of one sensory leads to automatic experiences in a second sensory. Sounds and tones can be connected to specific colours and shades. Certain emotions might be triggered with particular sounds, and music features are strongly linked with human emotions. Drawing from this phenomenon we can bring experiencing music to a completely different level, by intentionally opening cognitive pathways and releasing our imagination.
