@@ -12,7 +12,7 @@ comments: true
 </figure>
 
 <center>
-We meet everyday for a week in winter to improvise together.<br>
+Vocalist and dancer meeting everyday for a week to improvise together.<br>
 Voice and body, exploring different relations, distances and dynamics.<br>
 Movement and sound, completing and challenging each other<br>
  in beautiful and surprising journey 
