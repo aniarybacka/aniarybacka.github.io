@@ -4,7 +4,7 @@ permalink: /voice&movement/index.html
 title:
 tags: [voice and movement]
 image:
-  feature: VM Roberto Bordiga.JPG
+  feature: Roberto Bordiga2.JPG
 ---
 
 <p align="justify">The world of free improvisation is truly inestimable. Getting rid of common frames to define new, instant frames for here&now has been a fascinating, never-ending journey. Finding out my limitations, sharpening senses and training my presence in music makes me strive for more experiments and sensual experiences.
@@ -22,7 +22,7 @@ Video will be available in February 2015
     <a href="/images/Voice and Movement1.jpg"><img src="/images/Voice and Movement1.jpg"></a>
     <a href="/images/Voice and Movement2.jpg"><img src="/images/Voice and Movement2.jpg"></a>
     <a href="/images/Voice and Movement4.jpg"><img src="/images/Voice and Movement4.jpg"></a>
-    <a href="/images/Voice and Movement6.jpg"><img src="/images/Voice and Movement6.jpg"></a>
+    <a href="/images/Voice and Movement7.jpg"><img src="/images/Voice and Movement7.jpg"></a>
     
 </figure>
 
