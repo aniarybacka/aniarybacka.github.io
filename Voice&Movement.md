@@ -6,6 +6,11 @@ tags: [voice and movement]
 image:
   feature: Roberto Bordiga2.JPG
 ---
+<center>
+Ania Rybacka - voice<br>
+Ewa Kotwa - movement
+</center>
+<br><br>
 
 <p align="justify">The world of free improvisation is truly inestimable. Getting rid of common frames to define new, instant frames for here&now has been a fascinating, never-ending journey. Finding out my limitations, sharpening senses and training my presence in music makes me strive for more experiments and sensual experiences.
 <br><br>
