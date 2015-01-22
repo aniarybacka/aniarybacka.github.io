@@ -10,7 +10,7 @@ image:
 <p align="justify">The world of free improvisation is truly inestimable. Getting rid of common frames to define new, instant frames for here&now has been a fascinating, never-ending journey. Finding out my limitations, sharpening senses and training my presence in music makes me strive for more experiments and sensual experiences.
 <br><br>
 It was a natural step to try interdisciplinary improvisation, with different medium of expression. 
-For years I dreamt of performing live with a dancer. When we first met for jam with Ewa, we quickly figured out that music and dance improvisation don’t differ that much. We created a lab environment where each day for couple of hours we tested and observed different possible relations between voice and movement. This study brought us to developing different tools, games and constellations, where our roles smoothly transform and switch with each other. In the end, we prepared intriguing, living performance, where non of the moves nor sounds can be predicted, but still come together telling a common story. 
+For years I dreamt of performing live with a dancer. When we first met for jam with Ewa, we quickly figured out that music and dance improvisation don’t differ that much. We created a lab environment where each day for couple of hours we tested and observed different possible relations between voice and movement. This study brought us to developing different tools, games and constellations, where our roles smoothly transform and switch with each other. In the end, we prepared intriguing, living performance, where none of the moves nor sounds can be predicted, but they still come together telling a common story. 
 <br><br>
 Video will be available in February 2015
 <br><br>
