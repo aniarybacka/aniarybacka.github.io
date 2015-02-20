@@ -7,13 +7,16 @@ category: concerts
 tags: [Mayhem concert 25th of march]
 comments: true
 ---
+<figure>
+   <img src="/images/Grafiske mutationer1.jpg"></a>
+</figure><br>
 
-<center>
+<br>
 Grafiske Mutationer er en koncertrække på 6 koncerter. Omdrejningspunktet er nye grafiske kompositioner af komponist og saxofonist Sven Dam Meinild. Koncerterne følger alle det samme mønster. To grupper af samme format spiller de samme 2-3 kompositioner. Hver gang er bygget op om forskellige formater: Kvartet, trio, duo, solo, oktet og til sidst en special edition for kor og el-guitar kvartet.
 
 Koncertrækken byder på en række stærke improvisatorer fra den københavnske musikscene.
 Alle tilføjer deres personlige lyd til kompositionerne. På den måde vil kompositionerne, der bliver spillet to gange hver aften, mutere i hænderne på disse fantastiske musikere.
-</center><br><br>
+<br><br>
 
 ➜ Rybacka/Thomsen (PL/DK)<br>
 Grafiske Mutationer af Sven Meinild <br>
