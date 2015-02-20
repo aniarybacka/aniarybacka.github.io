@@ -2,12 +2,12 @@
 layout: page
 permalink: /sphere/index.html
 title:
-tags: [shpere]
+tags: [sphere]
 image:
   feature: Sphere Background.jpg
 ---
 
-<p align="justify">Project <big><b>Sphere</b></big> was born from pursuit of broadly defined beauty. Three highly regarded polish musicians: Ania Rybacka (voc), Marek Kadziela (git) and Kuba Dybzynski (cl) create a sphere inviting listener’s imagination to play an active role in an aesthetic and emotional experience. Music of this trio is full of intimate emotions, delicate lyricism and oscillates between genres, including jazz, classical, folk and improvised music. 
+Three highly regarded polish musicians: Ania Rybacka (voc), Marek Kadziela (git) and Kuba Dybzynski (cl) create <big><b>Sphere</b></big> inviting listener’s imagination to play an active role in an aesthetic and emotional experience. Music of this trio is full of intimate emotions, delicate lyricism and oscillates between genres, including jazz, classical, folk and avantgarde. 
 
 
 <figure>
@@ -19,7 +19,7 @@ Sphere has recently released an album SYNESTHESIA in record label Hevhetia.
 <br>
 The album was recorded in Holy Sea Studio in winter 2013. Whole material, vocal and guitar effects and loops are recorded live. CD’s are available here:
 <a href="http://www.hevhetia.com/Hevhetia/portal/ViewItem.xhtml?id=3408">Hevhetia online-shop</a><br>
-The cover artwork was made by Marcjanna Urbanska
+The cover artwork was made by Marcjanna Urbanska ---> <a href="http://marcjanna-u.tumblr.com">marcjanna-u.tumblr.com</a><br>
 <br><br>
 
 
