@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rybacka/Thomsen "Grafiske Mutationer" - Copenhagen"
+title: "Rybacka/Thomsen - Copenhagen"
 description: 25 march, concert at Mayhem
 modified: 2015-02-19
 category: concerts
