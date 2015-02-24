@@ -17,7 +17,11 @@ Ewa Kotwa - movement
 It was a natural step to try interdisciplinary improvisation, with different medium of expression. 
 For years I dreamt of performing live with a dancer. When we first met for jam with Ewa, we quickly figured out that music and dance improvisation don’t differ that much. We created a lab environment where each day for couple of hours we tested and observed different possible relations between voice and movement. This study brought us to developing different tools, games and constellations, where our roles smoothly transform and switch with each other. In the end, we prepared intriguing, living performance, where none of the moves nor sounds can be predicted, but they still come together telling a common story. 
 <br><br>
-Video will be available in February 2015
+VIDEOS
+<br>
+<iframe src="//player.vimeo.com/video/119119528" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/119119528">Voice and movement encounters - performance trailer</a> from <a href="https://vimeo.com/user28031764">Ewelina Kotwa</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UurconuNloM" frameborder="0" allowfullscreen></iframe>
 <br><br>
 
 PHOTOS
