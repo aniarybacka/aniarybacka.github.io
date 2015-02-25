@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sphere CD release!"
-description: Synesthesia 2015
+description: welcome
 modified: 2015-02-23
 category: articles
 tags: [Sphere CD release]
