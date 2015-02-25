@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /voice&movement/index.html
+permalink: /voiceandmovement/index.html
 title:
 tags: [voice and movement]
 image:
