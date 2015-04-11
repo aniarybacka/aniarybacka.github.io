@@ -62,6 +62,7 @@ Orkestrator: Finnur Karlsson
 <br><br>
 
 ➜ Rytmiske sangskrivere møder klassiske komponister
+
 ➜ Dato: 28/03/2015, at 15:00<br>
 ✉ Addresse:<br>
 DKDM Koncert Salen<br>
