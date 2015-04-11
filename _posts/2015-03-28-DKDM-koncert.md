@@ -68,6 +68,6 @@ DKDM Koncert Salen<br>
 Julius Thomsens Gade 1,
 København
 <br><br>
-➜ <a href="https://www.facebook.com/events/1381902032127583/</a><br><br>
+➜ <a href="https://www.facebook.com/events/1381902032127583/" >facebook event</a>
 
 
