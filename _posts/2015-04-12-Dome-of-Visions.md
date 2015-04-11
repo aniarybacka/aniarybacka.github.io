@@ -20,7 +20,7 @@ Ania Rybacka’s solo performances are known for intensity, creativity and artis
 
 
 
-➜ Purity of Sound
+➜ Purity of Sound<br>
 ➜ Dato: 12/04/2015, at 19:00<br>
 ✉ Addresse:<br>
 Dome of Visions<br>
