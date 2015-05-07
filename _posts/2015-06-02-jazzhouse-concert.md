@@ -9,9 +9,10 @@ comments: true
 ---
 
 ➜ R.K.S Trio<br>
-Ania Rybacka - vocal
-Rasmus Kjaergaard Lund - tuba
+Ania Rybacka - vocal<br>
+Rasmus Kjaergaard Lund - tuba<br>
 Morten Skoett - drums <br>
+
 
 ➜ Dato: 2/06/2015, at 21:00<br>
 ✉ Address:<br>
