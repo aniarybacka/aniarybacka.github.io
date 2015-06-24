@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ania Rybacka Band - Odense"
-description: 13 june, concert in Froggys
+description: 9 july, concert in Froggys
 modified: 2015-05-08
 category: concerts
-tags: [concert in Froggys 13 june]
+tags: [concert in Froggys 10 july]
 comments: true
 ---
 
@@ -14,7 +14,7 @@ Ania Rybacka - vocal<br>
 Mariusz Praśniewski - bass<br>
 Karol Domański - drums<br>
 
-➜ Dato: 13/06/2015, at 20:30<br>
+➜ Dato: 10/07/2015, at 20:30<br>
 ✉ Address:<br>
 Froggys Cafe<br>
 Vestergade 68<br>
