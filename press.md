@@ -8,12 +8,12 @@ tags: [projects]
 
 <figure class="half">
     <a href="{{ site.url }}/sphere"><img src="{{ site.url }}/images/Sphere icon1.jpg" alt="Sphere"></a>
-    <a href="{{ site.url }}/voiceandmovement"><img src="{{ site.url }}/images/voice&movement icon.jpg" alt="Voice and Movement Encounters"></a>   
+    <a href="{{ site.url }}/theartofescapism"><img src="{{ site.url }}/images/theartof icon.jpg" alt="The Art Of Escapism"></a>   
 </figure>
 
 <figure class="half">
     <a href="{{ site.url }}/blueberry"><img src="{{ site.url }}/images/blueberry new icon.jpg" alt="Blueberry"></a>
-    <a href="{{ site.url }}/ARquintet"><img src="{{ site.url }}/images/ARquintet project icon.jpg" alt="Ania Rybacka Quintet"></a>
+    <a href="{{ site.url }}/voiceandmovement"><img src="{{ site.url }}/images/voice&movement icon.jpg" alt="Voice and Movement Encounters"></a>
 </figure>
 
 
