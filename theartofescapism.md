@@ -16,8 +16,6 @@ Using voice as the most expressive and intimate from all instruments, we have di
 <br><br>
 
 VIDEOS
-<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ox6Ak3tLoF4" frameborder="0" allowfullscreen></iframe>
-<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1GIwdAvJk6o" frameborder="0" allowfullscreen></iframe>
 <br><br>
