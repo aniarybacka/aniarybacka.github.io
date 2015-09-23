@@ -46,9 +46,11 @@ A n i a___ R y b a c k a<br>
 
 <small>Singer and composer awarded on international jazz competitions as Lady Summertime (Finland), Nardis Jazz Vocal Yarismasi (Turkey), Voicingers (Poland) or Jazz Krokus Festival (Poland). Graduated from Carl Nielsen Academy of music (Denmark) and Warsaw School of Social Sciences. Last couple of years had a pleasure to perform with Odense Symphony Orchestra, as a soloist with Danish Radio Big Band, Cantilena and Fynsk Fuga choirs. Composed for Ania Rybacka Quintet, Sphere, Blueberry, and other projects. Works as a vocal coach, and performer. </small></p><br>
 
+<br>
+
+Synesthesia reviews and interview <a href="http://aniarybacka.com/articles/synesthesia-release">HERE</a><br>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/186980439&amp;color=4e91d3&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124621781&amp;color=0066cc&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/108827751&amp;color=0066cc&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
