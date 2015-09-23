@@ -33,7 +33,7 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: News
+  - title: Posts
     url: /articles
   - title: Bio
     url: /about
