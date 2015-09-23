@@ -34,3 +34,7 @@ The album was recorded in Holy Sea Studio in winter 2013.<br>
 CDs are available here:<br> <a href="http://www.hevhetia.com/Hevhetia/portal/ViewItem.xhtml?id=3408">Hevhetia online-shop</a><br>
 The cover artwork was made by Marcjanna Urbanska:<br> <a href="http://marcjanna-u.tumblr.com">marcjanna-u.tumblr.com</a><br>
 
+Listen to interview with Piotr Bielawski, about working on synethesia album, Radio Lodz (in polish)<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3sI5PjDR_Aw" frameborder="0" allowfullscreen></iframe>
+
+
