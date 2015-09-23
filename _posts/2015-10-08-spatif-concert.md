@@ -12,8 +12,18 @@ Ania Rybacka - voc<br>
 Kuba Dybzynski - clarinet<br>
 Marek Kadziela - guitar<br><br>
 
+➜ Dato: 8/10/2015, at 20:00<br>
+✉ Address:<br>
+Klub Środowisk Twórczych SPATiF<br>
+81-759 Sopot, Bohaterów Monte Cassino 52/54<br>
+spatif@sopot.pl <br>
+Phone: +48 58 550-26-83<br>
 
-more info to be announced
+➜ <a href="www.sopotjazz.pl">http://www.sopotjazz.pl/program</a>
+
+➜ <a href="http://jazzarium.pl/kalendarz/sopot-jazz-festival-2015-sphere-psm">http://jazzarium.pl/kalendarz/sopot-jazz-festival-2015-sphere-psm</a>
+
+
 
 
 
