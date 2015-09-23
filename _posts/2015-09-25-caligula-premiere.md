@@ -3,7 +3,7 @@ layout: post
 title: "Premiere of CALIGULA - DKT Copenhagen"
 description: 25 september, Skuespilhuset
 modified: 2015-11-09
-category: theater
+category: concerts
 tags: [Caligula, premiere 25th of september]
 comments: true
 ---
