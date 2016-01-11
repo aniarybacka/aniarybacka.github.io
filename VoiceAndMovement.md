@@ -17,10 +17,11 @@ Ewa Kotwa - movement
 It was a natural step to try interdisciplinary improvisation, with different medium of expression. 
 For years I dreamt of performing live with a dancer. When we first met for jam with Ewa, we quickly figured out that music and dance improvisation don’t differ that much. We created a lab environment where each day for couple of hours we tested and observed different possible relations between voice and movement. This study brought us to developing different tools, games and constellations, where our roles smoothly transform and switch with each other. In the end, we prepared intriguing, living performance, where none of the moves nor sounds can be predicted, but they still come together telling a common story. 
 <br><br>
-VIDEOS
-
+VIDEOS<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iDKq-TfG5Q0" frameborder="0" allowfullscreen></iframe>
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UurconuNloM" frameborder="0" allowfullscreen></iframe>
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z8iVr_p_KnE" frameborder="0" allowfullscreen></iframe>
 <br><br>
 PHOTOS
