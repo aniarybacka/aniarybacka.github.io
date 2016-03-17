@@ -18,7 +18,7 @@ Tlf. 3341 8141 <br>
 info@glyptoteket.dk<br><br>
 
  
-<a href="www.glyptoteket.dk">http://www.glyptoteket.dk/det-sker/kalender</a>
+<a href="http://www.glyptoteket.dk/det-sker/kalender">www.glyptoteket.dk</a>
 
 
 
