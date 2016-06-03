@@ -14,7 +14,10 @@ The Art Of Escapism
 <br><br>
 
 <p align="justify">
-Using voice as the most expressive and intimate from all instruments, we have discovered a unique universe welcoming audience to escape from daily routine, matters of past and future. Abstract improvised stories made of unconventional vocal soundscapes and surprising effects, take listeners imagination for a creative spin. Strong and soft voices multiply ond cross each other, bringing emotions through cathartic climax to sense of balance and harmony. From the very first day of our cooperation it was clear for me and Lo, that our connection and understanding between us is very special, and will be hard to find elsewhere. This project is my source of deep spiritual moments, where I'm not sure anymore if the voice I hear comes from me, from Lo, or from something else.
+Using voice as the most expressive and intimate from all instruments, Rybacka (PL) and Ersare (SWE) have discovered a universe welcoming audience to escape from daily routines, matters of past and future. Voices multiply and cross each other moving back and forth between complex layers of rhythms and music of a more minimalistic nature. <br>
+Improvised stories made of unconventional vocal soundscapes take the listener’s imagination for a creative spin. The improvisations are strongly influenced by folk music and vocal techniques coming from e.g. Bulgarian singing and Polish/ Swedish traditions. The time and place of the performance also affects the music making each concert a unique experience.
+<br>
+“I look into her eyes, and fearlessly begin singing the first thing that comes to my mind. We never talk before a concert. Never plan nor sketch our improvisation. I never know what will happen in following seconds, but I’m certain she will support me. She will surprise me, but never question me while we create. Our voices will become one. Again I will feel how our music is bigger then us. Again I will escape my body and dive into this mesmerising endless universe.”
 <br><br>
 PHOTOS
 <br>
@@ -42,8 +45,9 @@ photo: Tomo Jakobsen
 
 VIDEOS
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bcHuqlC4WdY" frameborder="0" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ox6Ak3tLoF4" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1GIwdAvJk6o" frameborder="0" allowfullscreen></iframe>
 
 <br><br>
