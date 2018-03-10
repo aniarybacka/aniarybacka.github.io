@@ -1,0 +1,25 @@
+Aby wrzucić coś na serwer, użyj programu git-cola.
+pull (z origin)
+kliknij wszystkie pliki po prawej
+stage (przycisk na dole)
+commit (daj komentarz zmian)
+push
+
+Aby wyedytować, dodać nowe pliki, użyj dowolnego edytora lub Geany.
+
+Aby uruchomić lokalnie strone (podejrzeć przed wrzuceniem na serwer):
+
+1. edytuj plik _config.yml i wykomentuj "url", czyli zamień
+url:              http://aniarybacka.github.io
+na
+#url:              http://aniarybacka.github.io
+
+2. otwórz terminal, i wpisz
+cd ~/workplace/aniarybacka.github.io/
+jekyll serve --watch
+(wychodzi się z tego wciskając ctrl+c)
+
+3. I wejdź przeglądarką na
+http://localhost:4000/
+
+4. jak skończysz wyedytuj ponownie _config.yml i odkomentuj linijkę 'url'
