@@ -11,7 +11,7 @@ Three highly regarded polish musicians: Ania Rybacka (voc), Marek Kadziela (git)
 
 
 <figure>
-    <img src="/images/Sphere okladka.jpg"></a>
+    <img src="/images/Sphere okladka.jpg">
 </figure>
 <p align="justify">
 Sphere has recently released an album SYNESTHESIA in record label Hevhetia.
@@ -47,11 +47,11 @@ A n i a___ R y b a c k a<br>
 <small>Singer and composer awarded on international jazz competitions as Lady Summertime (Finland), Nardis Jazz Vocal Yarismasi (Turkey), Voicingers (Poland) or Jazz Krokus Festival (Poland). Graduated from Carl Nielsen Academy of music (Denmark) and Warsaw School of Social Sciences. Last couple of years had a pleasure to perform with Odense Symphony Orchestra, as a soloist with Danish Radio Big Band, Cantilena and Fynsk Fuga choirs. Composed for Ania Rybacka Quintet, Sphere, Blueberry, and other projects. Works as a vocal coach, and performer. </small></p><br>
 <br>
 <figure>
-   <img src="/images/Spatif.jpg"></a>
+   <img src="/images/Spatif.jpg">
 </figure>
 <br>
 <figure>
-   <img src="/images/fot.MFK.COM.PL.jpg"></a>
+   <img src="/images/fot.MFK.COM.PL.jpg">
 </figure>
 photo: MFK.COM.PL
 <br>

@@ -17,6 +17,8 @@ tags: [projects]
 </figure>
 
 
-
+<figure class="half">
+	<a href="{{ site.url }}/voicendrums"><img src="{{ site.url }}/images/Voicendrumscover.jpg" alt="Voice'n'Drums"></a>   
+</figure>
 
 
