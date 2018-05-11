@@ -33,7 +33,7 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Posts
+  - title: News
     url: /articles
   - title: Bio
     url: /about
@@ -45,8 +45,6 @@ links:
     url: /projects
   - title: Contact
     url: /contact
-  - title: Facebook
-    url: https://www.facebook.com/aniarybackamusic
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
