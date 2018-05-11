@@ -4,6 +4,7 @@ permalink: /voicendrums/index.html
 title:
 tags: [voicendrums]
 image:
+  feature: VD digipack.jpg
 ---
 
 “This exceptionally courageous duo-project presents incredible imagination and skills of the artists in music, which really moves the listener. Voice ’n’ Drums is full of fantastic ideas and musical solutions." 
