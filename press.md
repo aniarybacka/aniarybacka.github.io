@@ -7,7 +7,7 @@ tags: [projects]
 ---
 
 <figure class="half">
-    <a href="{{ site.url }}/voicendrums"><img src="{{ site.url }}/images/Voicendrumscover.jpg" alt="Voice'n'Drums"></a>
+    <a href="{{ site.url }}/voicendrums"><img src="{{ site.url }}/images/Voicendrumscover2.jpg" alt="Voice'n'Drums"></a>
     <a href="{{ site.url }}/theartofescapism"><img src="{{ site.url }}/images/TAOE cd cover.jpg" alt="The Art Of Escapism"></a>   
 </figure>
 
