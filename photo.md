@@ -9,16 +9,16 @@ image:
 ---
 
 <figure>
-   <img src="/images/ANKA.jpg"></a>
+   <img src="/images/ANKA.jpg">
 </figure><br>
 
 
 <figure>
-   <img src="/images/Ausra1.jpg"></a>
+   <img src="/images/Ausra1.jpg">
 </figure><br>
 
 
 <figure>
-   <img src="/images/Ausra2.jpg"></a>
+   <img src="/images/Ausra2.jpg">
 </figure>
 Photos: Ausra Babiedaite
