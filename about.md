@@ -6,7 +6,15 @@ tags: [Ania Rybacka about]
 image:
   feature: pink watercolor light.jpg
 ---
-<p align="justify">Ania Rybacka is a polish multi-genre vocalist, and award winning jazz musician, who has been recognised for her storytelling and creativity at vocal competitions in Finland, Poland, Germany, and Turkey. Graduating from the danish Rhythmic Music Conservatory, Ania has spend the last seven years living in Denmark, performing with artists and constellations such as the Odense Symphony Orchestra, the Danish Radio Big Band, Adam Rudolph, Kresten Osgood, Anders Filipsen, Stefan Pasborg, Frederik Lundin, the Nephilim Ensemble, the vocal ensemble GLAS, Holmens Kantori, and many others. She released her first album ‘Synesthesia’ (2014, Hevhetia) with original music as a part of the trio Sphere, and since 2015 she has been working on the study of voice/movement improvisation, which lead to her second album Havet (2017 ForTune records) in the improvising duo The Art Of Escapism. 
+<p align="justify">Ania Rybacka is a Polish-born, Denmark-based multi-genre vocalist known for her expressive storytelling and fearless improvisation. Over the past decades, she has been recognized at vocal competitions across Europe, including in Finland, Poland, Germany, and Turkey, and was honored at the Danish Music Awards in 2022.
+<br>
+For the last 15 years, Ania has been an active part of the Danish and international music scene, collaborating with a wide range of artists and ensembles such as Marilyn Mazur’s NOW!, Tone of Voice Orchestra, and the vocal ensemble GLAS. Her work moves fluidly between experimental music, improvisation, and interdisciplinary performance, with the voice at the center of her artistic exploration.
+<br>
+Ania has released four experimental albums that treat the voice as an instrument in its own right. Her debut album Synesthesia (2014), created with the trio Sphere, introduced her original compositions. Since 2015, she has been deeply engaged in researching voice and movement improvisation, leading to the creation of Havet (2017) with Lo Ersare, and Voice’n’Drums (2018), a raw and exploratory collaboration with drummer Stefan Pasborg. Her latest release Medicine (2026) recorded with her father Tomasz Rybacki, is a deeply personal, improvised journey through connection, healing, and the dissolving of self into something greater and collective.
+<br>
+Her work has been praised for its emotional depth, sensuality, and creative range, positioning her as a distinctive voice in contemporary vocal art. Blending mysticism with technical freedom, Ania continues to expand the boundaries of what the human voice can express.
+
+<br>
 <br>
 <p> More facts:</p>
 <ul>
@@ -14,11 +22,5 @@ image:
 </li>
 <br>
  <li>She has two master degrees: in Music Performance from Rhythmic Music Conservatory in Copenhagen (2016), and in psychology from University of Social Sciences and Humanities in Warsaw (2010). Her master thesis in psychology focuses on life-quality among polish jazz musicians and is titled: <i>"Jazz-my life. Experience in musician’s role and its influence on self-structure and cognitive-emotional adaptation."</i> She works both as an artist and as a therapist, and you can read about her clinical practice here: <a href="https://sites.google.com/view/annarybacka/terapi/therapy-for-artists?authuser=0">www.annarybacka.dk</a>
-</li>
-<br>
- <li>Working with different genres, exploring folk music from all over the world, and having a playful approach to the voice allows Ania to freely operate with different vocal techniques. Within the same day, she can sing Vivaldi with orchestra in church, participate in Bulgarian choir rehearsal using white voice, and play a swing concert at a jazz club. She’s always dreamt of a music world without labels and genres, rules and limitations, where one can truly express herself in her full complexity.
-</li>
-<br>
- <li>In 2011 Ania Rybacka was awarded with artistic scholarship by Polish Ministry of Culture and National Heritage, and in 2012 by Danish Karen and Arthur Feldthusens Fondation For Young Singers And Pianists. Her projects are also supported by Danish Composers Association (KODA), Danish Musicians Association (DMF) and other public organisations.<br>
 </li>
 </ul>
